@@ -1,7 +1,7 @@
 # Tableau-For-Data-Visualization
 I created a tutorial video for creating different kinds of plots using Tableau using data from my school assignment.
 
-Tota Time Elapsed: 2 Hours
+Total Time Elapsed: 2 Hours
 
 Tools Used:
 - Tableau Cloud
